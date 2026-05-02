@@ -1,4 +1,6 @@
 <h5 align="center">
+![](https://komarev.com/ghpvc/?username=daybreak-halo&color=980d1f&label=♡)
+
   
 hi ,, will fix this soon when im not busy zzzzz
 
